@@ -1,18 +1,17 @@
-h1{
-    color:red;
+h1 {
+  color: red;
 }
 
-img{
-    width:100%;
-   
+img {
+  width: 100%;
 }
 
-.photos{
-    display:grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-column-gap: 20px;
+.photos {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 20px;
 }
 
-p{
-	color:yellow;
+p {
+  color: yellow;
 }
